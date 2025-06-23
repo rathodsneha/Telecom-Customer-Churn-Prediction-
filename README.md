@@ -1,70 +1,54 @@
 Customer Churn Prediction – Telecom Industry
 
-Objective
-The goal of this project is to analyze telecom customer data to predict churn, which means whether a customer will leave the company, and suggest business strategies to reduce churn and retain more customers.
+Project Overview
+This project predicts which customers of a telecom company are likely to leave (“churn”). It uses machine learning in Python for prediction and SHAP for understanding model behavior. An interactive Power BI dashboard visualizes the insights. Finally, it offers practical business strategies to reduce churn.
 
 Tools and Technologies
+• Python (Pandas, scikit-learn, SHAP)
+• Jupyter Notebook
+• Power BI
 
-Python (Pandas, Scikit-learn, SHAP)
-
-Jupyter Notebook
-
-Power BI
-
-SHAP for model explainability
+Files and Structure
+Customer_Churn_Analysis_Report.pdf — Final report explaining findings
+Churn_Dashboard_Telecom.pbix — Power BI dashboard file
+(Optional) Dashboard screenshot — to preview the dashboard
+(Optional) Sample data or notebook, if you wish to include them
 
 Project Workflow
 
-Cleaned and prepared the dataset
+Cleaned and prepared input data
 
 Performed Exploratory Data Analysis (EDA)
 
-Built machine learning models: Logistic Regression and Random Forest
+Built classification models (Logistic Regression, Random Forest)
 
-Used SHAP to explain model predictions
+Applied SHAP for model explainability
 
-Segmented customers into:
+Segmented customers into At Risk, Loyal, and Dormant groups
 
-At Risk
+Created an interactive Power BI dashboard
 
-Loyal
+Provided actionable business recommendations
 
-Dormant
-
-Created an interactive dashboard using Power BI
-
-Shared business recommendations
-
-Folder Structure
-Customer-Churn-Prediction-Telecom
-├── data → dataset or sample version
-├── notebooks → Jupyter notebook with code
-├── dashboard → Power BI file and screenshot
-├── reports → Final report in PDF
-└── README.md → This file
-
-Dashboard Preview
-(Include your dashboard screenshot in the dashboard folder and link to it here if needed)
-
-Key Insights
-
-Month-to-month customers are more likely to churn
-
-Customers with short tenure and high monthly charges have higher churn risk
-
-Contract type, tenure, and online services are important factors for predicting churn
+Key Findings
+• Month-to-month customers and users with shorter tenure are more likely to churn
+• Higher monthly charges correlate with increased churn risk
+• Contract type, tenure, and online services are the most important predictors
 
 Business Recommendations
+• Offer discounts or incentives to encourage annual contracts
+• Improve fiber service quality to lower churn
+• Re-engage dormant users with targeted offers
+• Promote bundled services (e.g., online backup) to boost retention
+• Send personalized offers to at-risk customers early
 
-Offer discounts for long-term annual contracts
+How to Use
 
-Improve service quality for fiber users
+View the PDF report for full analysis and insights
 
-Re-engage dormant users with special offers
+Open the Power BI file to explore interactive dashboards
 
-Promote bundled services like online backup
-
-Send personalized messages to at-risk customers
+Refer to the SHAP visualizations to understand what drives churn
 
 Author
 Sneha Rathod
