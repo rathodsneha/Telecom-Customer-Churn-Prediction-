@@ -20,6 +20,9 @@ Churn_Dashboard_Telecom.pbix — Power BI dashboard file
 
 
 
+
+
+
 Project Workflow :
 
 1. Cleaned and prepared input data
@@ -39,6 +42,7 @@ Project Workflow :
 
 
 
+
 Key Findings :
 
 • Month-to-month customers and users with shorter tenure are more likely to churn
@@ -46,8 +50,6 @@ Key Findings :
 • Higher monthly charges correlate with increased churn risk
 
 • Contract type, tenure, and online services are the most important predictors
-
-
 
 
 
@@ -62,6 +64,7 @@ Business Recommendations :
 • Promote bundled services like online backup
 
 • Send personalized offers to at-risk customers early
+
 
 
 
