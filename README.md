@@ -4,9 +4,13 @@ Project Overview
 This project predicts which customers of a telecom company are likely to leave (“churn”). It uses machine learning in Python for prediction and SHAP for understanding model behavior. An interactive Power BI dashboard visualizes the insights. Finally, it offers practical business strategies to reduce churn.
 
 Tools and Technologies
+
 • Python (Pandas, scikit-learn, SHAP)
+
 • Jupyter Notebook
+
 • Power BI
+
 
 Files and Structure
 Customer_Churn_Analysis_Report.pdf — Final report explaining findings
