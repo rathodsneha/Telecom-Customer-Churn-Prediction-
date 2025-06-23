@@ -50,11 +50,6 @@ Open the Power BI file to explore interactive dashboards
 
 Refer to the SHAP visualizations to understand what drives churn
 
-Dashboard Preview
-![Dashboard 1](dashboard/Screenshot%202025-06-22%20195858.png)  
-![Dashboard 2](dashboard/Screenshot%202025-06-22%20200009.png)
-
-
 
 
 
