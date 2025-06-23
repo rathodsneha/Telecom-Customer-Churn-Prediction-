@@ -51,7 +51,7 @@ Open the Power BI file to explore interactive dashboards
 Refer to the SHAP visualizations to understand what drives churn
 
 Dashboard Preview
-![Dashboard](dashboard/churn_dashboard.png)
+![Dashboard](dashboard/Telecom-Customer-Churn-Prediction-Publicdashboard.png)
 
 
 
