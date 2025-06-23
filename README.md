@@ -11,24 +11,16 @@ Tools and Technologies
 Files and Structure
 Customer_Churn_Analysis_Report.pdf — Final report explaining findings
 Churn_Dashboard_Telecom.pbix — Power BI dashboard file
-(Optional) Dashboard screenshot — to preview the dashboard
-(Optional) Sample data or notebook, if you wish to include them
 
-Project Workflow
 
-Cleaned and prepared input data
-
-Performed Exploratory Data Analysis (EDA)
-
-Built classification models (Logistic Regression, Random Forest)
-
-Applied SHAP for model explainability
-
-Segmented customers into At Risk, Loyal, and Dormant groups
-
-Created an interactive Power BI dashboard
-
-Provided actionable business recommendations
+Project Workflow 
+1. Cleaned and prepared input data
+2. Performed Exploratory Data Analysis (EDA)
+3. Built classification models (Logistic Regression, Random Forest)
+4. Applied SHAP for model explainability
+5. Segmented customers into At Risk, Loyal, and Dormant groups
+6. Created an interactive Power BI dashboard
+7. Provided actionable business recommendations
 
 Key Findings
 • Month-to-month customers and users with shorter tenure are more likely to churn
@@ -43,11 +35,8 @@ Business Recommendations
 • Send personalized offers to at-risk customers early
 
 How to Use
-
 View the PDF report for full analysis and insights
-
 Open the Power BI file to explore interactive dashboards
-
 Refer to the SHAP visualizations to understand what drives churn
 
 
